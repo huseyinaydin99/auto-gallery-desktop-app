@@ -1,6 +1,7 @@
 #### Oto Galeri Masaüstü Uygulaması
 
-<img src="https://www.technopat.net/sosyal/eklenti/xxx-jpg.397765/" />
+![blue](https://github.com/user-attachments/assets/223c63ae-f0cb-4845-8012-a56f32849206)
+
 <img src="https://www.technopat.net/sosyal/eklenti/a-png.397748/" />
 <img src="https://www.technopat.net/sosyal/eklenti/b-jpg.397749/" />
 
